@@ -1,0 +1,11 @@
+{
+    "presets": [
+      "@babel/preset-env",  // This preset includes plugins needed to support the latest ECMAScript features
+      "@babel/preset-react" // This preset includes plugins needed for React
+      // Add more presets if needed
+    ],
+    "plugins": [
+      "transform-class-properties"
+    ]
+  }
+  
