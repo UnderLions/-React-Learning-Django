@@ -9,7 +9,7 @@ const Heros = () => {
           <h5 className="card-title">Superhero Name</h5>
           <p className="card-text">Description of the superhero.</p>
           <p>Imad</p>
-          <a href="#" className="btn btn-primary">Learn more</a>
+          <a href="#" className="btn btn-outline-info">Learn more </a>
         </div>
       </div>
     </div>
