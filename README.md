@@ -1,4 +1,4 @@
-# 🚀 React Learning with Django Rest API
+## 🚀 React Learning with Django Rest 
 
 Welcome to the project! This repository is a comprehensive guide for learning how to integrate React with Django and building a powerful Django Rest API.
 
